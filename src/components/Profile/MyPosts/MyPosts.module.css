@@ -1,0 +1,20 @@
+.postsBlock {
+    padding: 10px;
+}
+
+.button {
+color:#ffffff;
+border-radius: 10%;
+}
+.button :active {
+color: #efa48d;
+}
+h3 {
+color: #efa48d;
+}
+.posts {
+margin-top: 20px;
+}
+textarea {
+border-radius: 5%;
+}
